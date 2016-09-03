@@ -1,4 +1,4 @@
-var JBackbone = require('../../lib/index.js')({
+var JBackbone = require('../../lib/index.js').create({
 	url: "amqp://guest:09031988@103.53.171.99:5672"
 })
 
