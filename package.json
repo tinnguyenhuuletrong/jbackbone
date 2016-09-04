@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rabbit.js": "^0.4.4"
+    "async": "^2.0.1",
+    "rabbit.js": "^0.4.4",
+    "request": "^2.74.0"
   }
 }
